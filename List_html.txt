@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>PEMROGRAMAN WEB</title>
+</head>
+<body>
+
+<h5>1.LIST MENGGUNAKAN OL</h5>
+<ol type="1">
+	<li>Rekayasa Perangkat Lunak
+	<ol type="A">
+		<li>Pagi</li>
+		<li>Sore</li>
+		<li>Malam</li>
+	</ol>
+	</li>
+
+	<li>Sistem Infomrasi
+	<ol type="A">
+		<li>Pagi</li>
+		<li>Sore</li>
+		<li>Malam</li>
+	</ol>
+	</li>
+
+	<li>Teknik informatika
+	<ol type="A">
+		<li>Pagi</li>
+		<li>Sore</li>
+		<li>Malam</li>
+	</ol>
+	</li>
+	<li>Akutansi
+		<ol type="A">
+		<li>Pagi</li>
+		<li>Sore</li>
+		<li>Malam</li>
+	</ol>
+	</li>
+</ol>
+<h5> 2.LIST MENGGUNAKAN UL</h5>
+<ul type="1">
+	<li>Rekayasa perangkat lunak</li>
+	<li>Sistem Infomrasi</li>
+	<li>Teknik informatika</li>
+	<li>Akutansi</li>
+</ul>
+<h5> 3.LIST MENGGUNAKAN CIRCLE</h5>
+<ul type="circle">
+	<li>Rekayasa perangkat lunak</li>
+	<li>Sistem Infomrasi</li>
+	<li>Teknik informatika</li>
+	<li>Akutansi</li>
+</ul>
+<h5> 4.LIST MENGGUNAKAN DISC</h5>
+<ul type="DISC">
+	<li>Rekayasa perangkat lunak</li>
+	<li>Sistem Infomrasi</li>
+	<li>Teknik informatika</li>
+	<li>Akutansi</li>
+</ul>
+<h5> 5.LIST MENGGUNAKAN NONE</h5>
+<ul type="NONE">
+	<li>Rekayasa perangkat lunak</li>
+	<li>Sistem Infomrasi</li>
+	<li>Teknik informatika</li>
+	<li>Akutansi</li>
+</ul>
+
+</body>
+</html>
